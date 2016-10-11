@@ -1,6 +1,6 @@
-1. What is OMC?
+1. What is OMC? //Optional MasterCard
 2. CTR_Facts - Division_CD? - Division Code
 3. CTR_Facts - Auto-invoice?
 4. CTR_Facts - Net_Position_D?
 5. CTR_Facts - TXN_count?
-2. What is customer synergies?
+2. What is customer synergies? // Думаю тут про те, як покупка і дія одного покупця впливає на дію інших покупців. Але краще                                     запитатись
